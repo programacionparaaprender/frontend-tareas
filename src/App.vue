@@ -1,15 +1,16 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Tarea />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Tarea from './components/Tarea.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    // eslint-disable-next-line vue/no-unused-components
+    Tarea
   }
 }
 </script>
