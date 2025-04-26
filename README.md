@@ -34,6 +34,23 @@
 
 ### 9. Deploy
 >- npm run build
+>- netlify.com
 
 ## Sección 2: BackEnd
+
+### 10. Creación del BackEnd
+>- VS 2019
+>- SDK 3.1
+>- SQL Server
+>- Video - Instalación SQL Server
+>- Vídeo Instalación Visual 2019
+
+### 11. Creación del Modelo
+>- https://www.entityframeworktutorial.net/code-first/dataannotation-in-code-first.aspx
+
+### 12. Instalación de dependencias
+>- Microsoft.EntityFrameworkCore 3.1
+>- Microsoft.EntityFrameworkCore.Tools 3.1
+>- Microsoft.EntityFrameworkCore.SqlServer 3.1
+
 
